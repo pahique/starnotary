@@ -1,0 +1,16 @@
+{
+  "name": "starnotaryws",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "web3": "^0.20.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paulo Henrique C. Oliveros",
+  "license": "ISC",
+  "description": "Node client to Star Notary smart contract"
+}
